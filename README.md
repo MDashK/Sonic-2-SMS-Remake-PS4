@@ -44,8 +44,6 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
 - Fixed hyper Sonic and Tails sprite waiting
 
-- Pressing the debug button will return to the player
-
 - Under Ground boss does not kill player when exploding
 
 - Scrambled Egg boss does not lose life with spin dash
