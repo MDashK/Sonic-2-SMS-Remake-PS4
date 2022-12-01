@@ -1,10 +1,18 @@
-# Sonic 2 SMS Remake PS4
+# Sonic SMS Remake 2 PS4
 
-A port of the fangame **Sonic 2 SMS Remake** for the **PS4**.
+A port of the fangame **Sonic SMS Remake 2** for the **PS4**.
 
-**Competition works! And you can even cross-play between versions PC/Android/PS4/NSW.**
+**Competition works! And you can even cross-play between versions PC/Android/PS4.**
 
 Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
+
+**Highlights of the latest update:**
+
+• Fixed major memory leak **(no more crashes! \o/)**
+<br>
+• 60 FPS mode!
+<br>
+• Lots of other optimizations
 
 **Expected bugs and issues:**
 
@@ -16,6 +24,47 @@ Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 --------------------
 
 **Changelog:**
+
+
+**v2.9 rev.2:**
+
+- Now in 60 FPS (switch 30/60 modes)
+
+- New optimization system
+
+- New main camera
+
+- New menu: Gameplay
+
+- Updated save game icons
+
+- New sprite of Super Shadow running
+
+- New animation of big rings and red star ring
+
+- Fixed hyper Sonic and Tails sprite waiting
+
+- Pressing the debug button will return to the player
+
+- Under Ground boss does not kill player when exploding
+
+- Scrambled Egg boss does not lose life with spin dash
+
+- Oil Ocean boss can now be hit in the air
+
+- Option to enable/disable Air Jump
+
+- Change(Circle) button is used as a back function in the options
+
+- Removed cameras option
+
+- Super animation fix
+
+- Fixed bugs on platforms
+
+- General review of the game by Beta Testers
+
+- Updated credits
 
 
 **v2.9:**
